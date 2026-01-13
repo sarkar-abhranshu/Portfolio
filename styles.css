@@ -69,6 +69,7 @@ body {
 
 h1, h2, h3, h4, nav { 
 	font-family:Arial;
+	font-weight: 300;
 	font-weight:bold; 
 }
 
